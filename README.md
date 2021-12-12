@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/antonio-mora-rives" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio-mora-rives" height="30" width="40" /></a>
 <a href="https://instagram.com/toniappss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toniappss" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucgvfgutoq-hpskzaw0bsveg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucgvfgutoq-hpskzaw0bsveg" height="30" width="40" /></a>
-<a href="/https://blog.mrantonio.es/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.mrantonio.es/feed/" height="30" width="40" /></a>
+<a href="https://blog.mrantonio.es/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.mrantonio.es/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,9 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toniapps&show_icons=true&locale=en" alt="toniapps" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toniapps&" alt="toniapps" /></p>
-
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->

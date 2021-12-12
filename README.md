@@ -17,6 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [¡Hola, mundo!](https://blog.mrantonio.es/2021/08/10/hola-mundo/)
+- [music can help us to look ideas](https://blog.mrantonio.es/2018/02/23/music-can-help-us-to-look-ideas/)
+- [being beautiful is about singing even loudly](https://blog.mrantonio.es/2018/02/23/being-beautiful-is-about-singing-even-loudly/)
+- [beauty is in the eye of the beholder](https://blog.mrantonio.es/2018/02/23/beauty-is-in-the-eye-of-the-beholder/)
+- [beauty is accepting and embracing once](https://blog.mrantonio.es/2018/02/23/beauty-is-accepting-and-embracing-once/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
